@@ -1,0 +1,15 @@
+https://www.reddit.com/r/stm32/comments/lxavw2/question_about_interfacing_usbc_pd_stusb4500_with/
+
+https://www.reddit.com/r/AskElectronics/comments/1s8v07v/stusb4500_repeated_component_failure_help/
+
+https://cdn.sparkfun.com/assets/9/2/6/8/6/SparkFun_PowerDeliveryBoardSchematic.pdf
+
+
+https://www.sparkfun.com/sparkfun-power-delivery-board-usb-c-qwiic.html
+
+https://www.ic-components.com/blog/STUSB4500-USB-PD-Controller-Details.jsp
+
+https://i.sstatic.net/vxAIv.png
+
+
+https://www.hackster.io/news/usb-pd-adapter-board-can-replace-random-power-bricks-8aaa4852ef5b
