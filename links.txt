@@ -13,3 +13,7 @@ https://i.sstatic.net/vxAIv.png
 
 
 https://www.hackster.io/news/usb-pd-adapter-board-can-replace-random-power-bricks-8aaa4852ef5b
+
+https://github.com/wagiminator/ATtiny814-USB-PD-Adapter
+
+https://github.com/isaac879/USB-Type-C-PD-Trigger-Board/tree/main
